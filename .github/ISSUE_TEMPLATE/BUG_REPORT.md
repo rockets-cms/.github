@@ -1,8 +1,8 @@
 ---
-name: Bug Report
-about: Generic template for reporting bugs.
-labels: 🐛 bug
-title: P# | Title
+name: "Bug Report"
+about: "Generic template for reporting bugs."
+labels: "🐛 bug"
+title: "[BUG] 🐛 Bug title"
 assignees: visormatt
 ---
 

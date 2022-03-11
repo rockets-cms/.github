@@ -1,8 +1,8 @@
 ---
-name: Feature Request
-about: Generic template for feature requests.
+name: "Feature Request"
+about: "Generic template for feature requests."
 labels: "🏗️ enhancement"
-title: "🤩 Feature Request"
+title: "[FEATURE] 🤩 Feature title"
 assignees: ""
 ---
 
