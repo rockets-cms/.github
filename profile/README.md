@@ -12,8 +12,10 @@
   -->
 </div>
 
+<!--
 <h3 align="center">
   <a href="mailto:contact@rocketcms.io?subject=Get involved!">
     <i>Get involved!</i>
   </a>
 </h3>
+ -->
