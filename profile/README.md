@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://RocketCMS.org" target="_blank">
-    <img height="200" src="https://user-images.githubusercontent.com/545829/157785149-acd735e7-4801-428a-95b5-ba5c930df052.png" />
+    <img height="200" src="https://user-images.githubusercontent.com/545829/159631367-8f38571a-db1f-417f-acfa-7ec2863f198a.svg" />
   </a>
   <h1>
     <a href="https://RocketCMS.org" target="_blank">RocketCMS</a>
